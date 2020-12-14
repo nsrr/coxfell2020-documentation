@@ -12,9 +12,9 @@ The [original Matlab files](https://zenodo.org/record/3929730#.XyAQ3S-z3dc) have
 
 | Archive                           | Contents                                                         | Filename                               |
 |:----------------------------------|:-----------------------------------------------------------------|:---------------------------------------|
-| Linked mastoid EDFs (**primary**) | Linked mastoid EDFs (primary) 6 EDFs (3 individuals for N2 & N3) | [cox_fell_edfs_mast.zip](:files_path:/cox_fells_edfs_mast.zip) |
-| Common average EDFs               | Common average EDFs 6 EDFs (3 individuals for N2 & N3)           | [cox_fell_edfs_ave.zip](:files_path:/cox_fells_edfs_ave.zip)   |
-| Surface Laplacian EDFs            | 6 EDFs (3 individuals for N2 & N3)                               | cox_fell_edfs_lap.zip - not posted yet                         |
+| Linked mastoid EDFs (**primary**) | Linked mastoid EDFs (primary) 6 EDFs (3 individuals for N2 & N3) | [cox_fell_edfs_mast.zip](:files_path:/?f=cox_fells_edfs_mast.zip) |
+| Common average EDFs               | Common average EDFs 6 EDFs (3 individuals for N2 & N3)           | [cox_fell_edfs_ave.zip](:files_path:/?f=cox_fells_edfs_ave.zip)   |
+| Surface Laplacian EDFs            | 6 EDFs (3 individuals for N2 & N3)                               | cox_fell_edfs_lap.zip - not posted yet                            |
 
 ## Resources
 
