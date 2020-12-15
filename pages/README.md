@@ -1,6 +1,6 @@
 # About
 
-Drs. Roy Cox and Juergen Fell recently published an excellent review/tutorial manuscript in Sleep Medicine Reviews, providing a useful overview of some common approaches -- and associated pitfalls -- for the analysis of sleep EEG data. Of note, the authors also provided open data and Matlab code, thereby enabling readers to reproduce and better understand the methods.
+Drs. Roy Cox and Juergen Fell recently published an excellent review/tutorial manuscript in Sleep Medicine Reviews, providing a useful overview of some common approaches -- and associated pitfalls -- for the analysis of sleep EEG data. Of note, the authors also provided open data and Matlab code, thereby enabling readers to reproduce and better understand the methods. Drs. Cox and Shaun Purcell co-authored a [vignette in which they use Luna to reproduce key figures from the manuscript](http://zzz.bwh.harvard.edu/luna/vignettes/rcox/).
 
 > Cox R & Fell J (2020) Analyzing human sleep EEG: A methodological primer with code implementation, Sleep Medicine Reviews. https://doi.org/10.1016/j.smrv.2020.101353
 
